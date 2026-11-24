@@ -1,34 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,45:24105A,100:0878D1&height=170&section=header&text=Raphaela%20Martins&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=Professora%20%7C%20Desenvolvedora%20%7C%20Tecnologia&descAlignY=65&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,45:24105A,100:0878D1&height=170&section=header&text=Luan%20Felipe&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Tecnologia%20%7C%20Inform%C3%A1tica%20%7C%20Aprendizado&descAlignY=65&descSize=15"/>
 
-💜 Bem-vindo(a) ao meu cantinho no GitHub!
+💜 Bem-vindo(a) ao meu GitHub!
 
-Full-stack Developer | Node.js | PostgreSQL | Java
-
-Construindo software, aprendendo tecnologia e explorando novas ideias. 💻✨
+Explorando o mundo da tecnologia, aprendendo e evoluindo a cada dia! 🚀
 
 </div>
 
-👩🏻‍💻 Sobre mim
+👨‍💻 Sobre mim
 
-Olá! Eu sou a Raphaela Martins!
+Olá! Eu sou Luan Felipe!
 
-Sou uma pessoa que gosta de aprender coisas novas, explorar a tecnologia e descobrir o que posso criar através da informática.
+Sou uma pessoa que gosta de tecnologia, informática e de aprender coisas novas. Tenho muito interesse pelo curso de informática e gosto de explorar o mundo dos computadores.
 
-Gosto muito de trabalhar com feira, adoro meu curso de informática e tenho bastante interesse pelo mundo da programação.
+Também gosto de trabalhar com feira e aproveitar meus momentos livres para relaxar no computador ou descansar na minha cama. 😎
 
-Também gosto de aproveitar meus momentos de descanso, seja relaxando no meu computador ou simplesmente descansando na minha cama. Afinal, todo mundo merece um tempinho para si! 💜
+Acredito que sempre podemos aprender algo novo e evoluir um pouco mais a cada dia!
 
-🌷 Algumas coisas sobre mim:
-💻 Gosto muito do curso de informática.
-🌱 Estou sempre buscando aprender coisas novas.
+🌟 Um pouco sobre mim
+💻 Gosto muito de informática e computadores.
+📚 Gosto bastante do meu curso de informática.
 🛍️ Gosto de trabalhar com feira.
-🎧 Gosto de relaxar no computador.
+🎮 Gosto de passar meu tempo relaxando no computador.
 🛏️ Também adoro descansar na minha cama.
-🚀 Tenho interesse em tecnologia, programação e inovação.
-💜 Gosto de transformar ideias em projetos.
-🛠️ Tecnologias e ferramentas
+🚀 Estou sempre aberto a novos aprendizados.
+💜 Gosto de tecnologia e inovação.
+🛠️ Tecnologia e interesses
 
 <div align="center">
 
@@ -36,29 +34,29 @@ Também gosto de aproveitar meus momentos de descanso, seja relaxando no meu com
 
 </div>
 
-💡 Meus interesses
+🎯 Meus objetivos
+Aprender cada vez mais sobre informática.
+Desenvolver minhas habilidades com tecnologia.
+Conhecer novas ferramentas e possibilidades.
+Evoluir e construir meu próprio caminho no mundo digital.
+💜 Um pouco da minha personalidade
 
 <div align="center">
 
-💻 Tecnologia	🌸 Vida pessoal	🚀 Aprendizado
-Informática	Trabalhar com feira	Programação
-Computadores	Momentos de descanso	Novas tecnologias
-Desenvolvimento	Música e tranquilidade	Inteligência Artificial
+💻 Computador	🛍️ Feira	🛏️ Descanso
+Tecnologia	Trabalho	Relaxar
+Informática	Experiência	Tranquilidade
 
 </div>
 
-🌌 Meu objetivo
-
-Continuar aprendendo, evoluindo na área da informática e desenvolvendo minhas habilidades para criar projetos cada vez melhores.
-
-Acredito que cada aprendizado é um passo para construir um futuro cheio de oportunidades!
-
 <div align="center">
 
-💜 Obrigada por visitar meu perfil!
+✨ Obrigado por visitar meu perfil!
 
-Entre códigos, sonhos e novas descobertas, sigo construindo minha jornada!
+"Nunca pare de aprender, porque a vida nunca para de ensinar."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24105A,100:0878D1&height=110&section=footer" width="100%"/>
+💜 Luan Felipe | Tecnologia e aprendizado 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24105A,100:0878D1&height=110&section=footer"/>
 
 </div>
